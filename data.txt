@@ -1,5 +1,3 @@
 echo
 echobb
 badadam
-dddddd
-dddd
